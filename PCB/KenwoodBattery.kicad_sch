@@ -1,0 +1,66 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "4ed1523b-8270-45c0-ac83-d612fc066567")
+	(paper "A4")
+	(lib_symbols)
+	(text "Charge Controller with balancing feature\n"
+		(exclude_from_sim no)
+		(at 31.496 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d373aa17-1c64-45d2-9d15-44ccfe5cea8d")
+	)
+	(sheet
+		(at 15.24 34.29)
+		(size 35.56 35.56)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4cb1687e-957f-4135-970c-fe3ba72c3c47")
+		(property "Sheetname" "Charge Controller"
+			(at 15.24 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Charger.kicad_sch"
+			(at 15.24 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "KenwoodBattery"
+				(path "/4ed1523b-8270-45c0-ac83-d612fc066567"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

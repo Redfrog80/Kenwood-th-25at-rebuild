@@ -1,0 +1,206 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "5bda3c7d-5ea8-457e-98e1-142915a86f91")
+	(paper "A4")
+	(lib_symbols)
+	(global_label "BQ_SDA"
+		(shape bidirectional)
+		(at 144.78 113.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0dca23e4-791b-4767-8e03-610b0ff94c31")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.5473 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ_TS"
+		(shape bidirectional)
+		(at 177.8 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15b2f5a2-f452-4766-aea6-96fd7fe6536a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 187.6417 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBATMID"
+		(shape bidirectional)
+		(at 177.8 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f21bcb3-8726-4c9b-8a81-a76bff98ae18")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 189.6375 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ_INT"
+		(shape bidirectional)
+		(at 144.78 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6551bc45-c014-463f-9704-d2336eeca7b5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.2125 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBAT"
+		(shape bidirectional)
+		(at 177.8 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "70e34b6b-85cd-4c5a-8c8f-a387761f9878")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.3113 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ_PG"
+		(shape bidirectional)
+		(at 144.78 102.87 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8dbb13ad-4711-445f-abd1-1020c026298c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.5754 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VUSB"
+		(shape bidirectional)
+		(at 190.5 91.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "adf45749-7d5d-4473-af8c-4f9c283d5260")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 181.5049 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ_SCL"
+		(shape bidirectional)
+		(at 144.78 107.95 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b138bcf4-8e50-45b3-98c5-107a2e712a8c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 133.6078 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BQ_STAT"
+		(shape bidirectional)
+		(at 144.78 96.52 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b1c7cab5-b32f-456a-b67e-861e1c9d7fc2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.8821 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+)
